@@ -1,2 +1,6 @@
-*.class
+/.idea/
+*.iml
+/other/
+/target/
 *.log
+
